@@ -1,0 +1,147 @@
+@import "../../vars.css";
+
+.container {
+    color: var(--color-text);
+    margin-top: 5rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: relative;
+}
+
+.title {
+    text-align: left;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.contentBox {
+    background-color: var(--color-dark);
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+.subheading {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-style: italic;
+}
+
+.subheading h3 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.subheading p {
+    font-size: 1.25rem;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+}
+
+.formContainer {
+    width: 60%;
+}
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+}
+
+.formGroup label {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.formGroup input, .formGroup textarea {
+    padding: 0.8rem;
+    border: 1px solid var(--color-primary);
+    border-radius: 5px;
+    background-color: transparent;
+    color: var(--color-text);
+}
+
+.formGroup textarea {
+    min-height: 150px;
+}
+
+.submitBtn {
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    border: none;
+    border-radius: 5px;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submitBtn:hover {
+    background-color: #1a65b7;
+}
+
+.thanksMessage {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    color: var(--color-primary);
+}
+
+.contactInfo {
+    width: 40%;
+}
+
+.contactInfo h4 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.infoGroup {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.infoGroup img {
+    width: 25px;
+    height: 25px;
+}
+
+.infoGroup p {
+    font-size: 1rem;
+}
+
+.socialMediaTitle {
+    margin-top: 2rem;
+}
+
+.socialMediaLinks {
+    display: flex;
+    gap: 1rem;
+}
+
+.socialIcon {
+    width: 35px;
+    height: 35px;
+    transition: transform 0.3s ease;
+}
+
+.socialIcon:hover {
+    transform: scale(1.1);
+}

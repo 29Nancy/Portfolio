@@ -1,0 +1,11 @@
+:root {
+  /* Color Variables */
+  --color-background: #0d1117; /* A very dark, almost black color */
+  --color-text: #e6edf3; /* A light off-white color for contrast */
+  --color-primary: #1e88e5; /* A vibrant blue for buttons and accents */
+  --color-secondary: #ff7043; /* An orange accent for highlights */
+  --color-dark: #222222; /* A dark gray for some elements */
+
+  /* Font Variables */
+  --font-roboto: "Roboto", sans-serif;
+}

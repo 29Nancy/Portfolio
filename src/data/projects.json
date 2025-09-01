@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Nuclear Fallout Simulator",
+    "imageSrc": "projects/eeg-project.png",
+    "description": "Created an advanced, offline-capable simulation tool for analyzing nuclear fallout effects. This application provides critical data visualizations and geographical outputs, demonstrating expertise in developing secure, self-contained systems for specialized analysis.",
+    "skills": ["Python", "Kivy", "Numpy", "GeoPandas","Matplotlib"],
+    "demo": "#",
+    "source": "https://www.github.com/29Nancy/eeg-project"
+  },
+  {
+    "title": "EEG Signal Classification",
+    "imageSrc": "projects/margdarshak.png",
+    "description": "An intelligent application developed to assist the critical task of EEG signal classification, specifically for the detection of epileptic seizures. This system provides a robust and efficient diagnostic support tool by analyzing complex neurological data in real-time.",
+    "skills": ["Python", "Tensorflow", "scikit", "Visualization Library"],
+    "demo": "#",
+    "source": "https://www.github.com/29Nancy/margdarshak"
+  },
+  {
+    "title": "LearnMate - Skill Exchange System",
+    "imageSrc": "projects/emosense.png",
+    "description": "A dynamic barter platform where users can exchange skills without any monetary transactions. The application matches users based on their desired skills, featuring a chat interface and a booking system to facilitate smooth, direct skill swaps.",
+    "skills": ["React.js", "Node.js", "Flask","PostgreSQL", "NLP"],
+    "demo": "#",
+    "source": "https://www.github.com/29Nancy/emosense"
+  },
+  {
+    "title": "Trip Planner",
+    "imageSrc": "projects/new-project-1.png",
+    "description": "A mobile application designed to simplify trip planning and create lasting travel memories. The app allows users to create personalized itineraries, capture and organize snapshots of their journeys, and receive location-based suggestions for nearby attractions and activities.",
+    "skills": ["Flutter", "Firebase", "Google Maps API"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Marg Darshak",
+    "imageSrc": "projects/new-project-2.png",
+    "description": "Developed a scalable, AI-powered traffic prediction and strategic route optimization system. This application uses machine learning to simulate urban congestion and reduce emergency response times, demonstrating a direct, positive impact on city management.",
+    "skills": ["Python", "Django", "MySQL", "ML Libraries"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "EmoSense",
+    "imageSrc": "projects/new-project-3.png",
+    "description": "A secure mental health monitoring platform created to provide a safe space for journaling and a 24/7 NLP-based chatbot for emotional support. Its core feature is the implementation of robust, defense-grade encryption protocols to ensure data privacy and integrity.",
+    "skills": [ "Python", "Firebase","Bootstrap","MySQL"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "BookWise - Library Management System",
+    "imageSrc": "projects/new-project-3.png",
+    "description": "A comprehensive library management system built to streamline online library operations. The application allows users to perform all basic functions, such as searching, borrowing, and returning books, providing a digital solution for efficient library administration.",
+    "skills": [ "Python","MySQL"],
+    "demo": "#",
+    "source": "#"
+  }
+]

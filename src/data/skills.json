@@ -1,0 +1,59 @@
+[
+  {
+    "category": "Programming Languages",
+    "skills": [
+      { "name": "Python", "imageSrc": "skills/python.png" },
+      { "name": "JavaScipt", "imageSrc": "skills/js.png" },
+      { "name": "Java", "imageSrc": "skills/java.png" },
+      { "name": "Typescript", "imageSrc": "skills/typescript.png" },
+      { "name": "C", "imageSrc": "skills/c.png" },
+      { "name": "C++", "imageSrc": "skills/cpp.png" },
+      { "name": "SQL", "imageSrc": "skills/sql.png" }
+    ]
+  },
+  {
+    "category": "Web Development",
+    "skills": [
+      { "name": "React.js", "imageSrc": "skills/react.png" },
+      { "name": "Node.js", "imageSrc": "skills/nodejs.png" },
+      { "name": "Tailwind CSS", "imageSrc": "skills/tailwind.png" },
+      { "name": "Flask", "imageSrc": "skills/flask.png" },
+      { "name": "Django", "imageSrc": "skills/django.png" },
+      { "name": "React Native", "imageSrc": "skills/react1.png" },
+      { "name": "Express.js", "imageSrc": "skills/express.png" }
+    ]
+  },
+  {
+    "category": "AI/ML",
+    "skills": [
+      { "name": "TensorFlow", "imageSrc": "skills/tensorflow.webp" },
+      { "name": "Pandas", "imageSrc": "skills/pandas.png" },
+      { "name": "Numpy", "imageSrc": "skills/numpy.png" },
+      { "name": "Keras", "imageSrc": "skills/keras.png" },
+      { "name": "OpenCV", "imageSrc": "skills/opencv.png" },
+      { "name": "Scikit-learn", "imageSrc": "skills/scikit-learn.png" },
+      { "name": "LLMs", "imageSrc": "skills/llms.webp" }
+    ]
+  },
+  {
+    "category": "Databases",
+    "skills": [
+      { "name": "MySQL", "imageSrc": "skills/mysql.png" },
+      { "name": "Firebase", "imageSrc": "skills/firebase.png" },
+      { "name": "PostgreSQL", "imageSrc": "skills/postgre.png" },
+      { "name": "MongoDB", "imageSrc": "skills/mongodb.png" },
+      { "name": "MS SQL Server", "imageSrc": "skills/ms.png" }
+    ]
+  },
+  {
+    "category": "Frameworks & Tools",
+    "skills": [
+      { "name": "Git", "imageSrc": "skills/git.png" },
+      { "name": "GitHub", "imageSrc": "skills/github.jpg" },
+      { "name": "Docker", "imageSrc": "skills/docker.png" },
+      { "name": "AWS", "imageSrc": "skills/aws.png" },
+      { "name": "VS Code", "imageSrc": "skills/vs.jpg" },
+      { "name": "Google Cloud", "imageSrc": "skills/gcloud.png" }
+    ]
+  }
+]

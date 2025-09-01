@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Software and Research Intern",
+    "organisation": "Defence Research and Development Organisation (DRDO)",
+    "startDate": "",
+    "endDate": "Present",
+    "experiences": [
+      "Contributing to a high-impact research and development project under a senior scientist, focusing on a specialized application for the defense sector. Gaining hands-on experience in a mission-critical environment, with plans to publish a research paper."
+    ],
+    "imageSrc": "history/drdo.jpg"
+  },
+  {
+    "role": "Mentee",
+    "organisation": "Include<her> Women Engineer Cohort 4.0",
+    "startDate": "Feb",
+    "endDate": "April 2024",
+    "experiences": [
+      "Engaged in a mentorship program supported by Microsoft Azure, where I gained hands-on experience in Generative AI and LLMs, collaborated with a team on a real-world project. This experience refined my skills in collaborative development and applying theoretical knowledge to create practical solutions under the guidance of industry experts."
+    ],
+    "imageSrc": "history/microsoft-azure.png"
+  },
+  {
+    "role": "Finalist Team",
+    "organisation": "Smart India Hackathon",
+    "startDate": "Oct",
+    "endDate": "Dec 2024",
+    "experiences": [
+      "Our team developed a mental health web app as a finalist entry for the Smart India Hackathon. My core contribution was building a 24/7 NLP-based chatbot and integrating robust security measures, demonstrating my ability to create impactful, full-stack solutions for critical social challenges."
+    ],
+    "imageSrc": "history/sih.png"
+  }
+]

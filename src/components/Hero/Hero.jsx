@@ -36,10 +36,10 @@ export const Hero = () => {
                     <a href="mailto:myemail@email.com" className={styles.contactBtn}>
                         Contact Me
                     </a>
-                    <a href="/assets/resume/NANCY-TYAGI-RESUME.pdf" className={styles.secondaryBtn} target="_blank" rel="noopener noreferrer">
+                    <a href="/assets/resume/Resume__Nancy.pdf" className={styles.secondaryBtn} target="_blank" rel="noopener noreferrer">
                         View Resume
                     </a>
-                    <a href="/assets/resume/NANCY-TYAGI-RESUME.pdf" download="NANCY_TYAGI_RESUME.pdf" className={styles.downloadLink}>
+                    <a href="/assets/resume/Resume__Nancy.pdf" download="Resume__Nancy.pdf" className={styles.downloadLink}>
                        <img src="/assets/icons/download.png" alt="Download Resume" className={styles.downloadIcon}/>
                     </a>
                     <a href="#contact" className={styles.secondaryBtn}>
